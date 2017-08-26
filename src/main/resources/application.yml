@@ -1,0 +1,12 @@
+#server:
+#  port: 8080
+#  tomcat:
+#    uri-encoding: UTF-8
+#spring:
+#  mvc:
+#    view:
+#      prefix: /views/
+#      suffix: .jsp
+#
+#
+#
